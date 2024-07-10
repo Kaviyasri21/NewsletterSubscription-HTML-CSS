@@ -1,0 +1,48 @@
+body{
+  border:1px solid black;
+  margin:0;
+  padding:0;
+  height: 525px;
+}
+h1{
+  font-family:Arial;
+  padding:0;
+  margin:20px;
+}
+.container{
+  border:1px grey;
+  background-color:whitesmoke;
+  margin:10px;
+  padding:10px;
+}
+h2{
+  font-family:Arial;
+  
+  padding-bottom:-5px;
+  margin:20px;
+}
+p{
+  margin:23px;
+  padding:px;
+  font-family:Arial;
+  font-size:15px;
+}
+form{
+  background-color:white;
+  padding:15px;
+  margin:px;
+}
+label{
+  padding:2px;
+}
+input{
+  padding:10px;
+  margin-top:8px;
+}
+button{
+  color:white;
+  background-color:green;
+  border:none;
+  padding:4px;
+  
+}
